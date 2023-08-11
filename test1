@@ -1,1 +1,556 @@
+<html dir="rtl" lang="ar_MA">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1"/>
+  <meta name="theme-color" content="#FFF"/>
+  <meta name="msapplication-navbutton-color" content="#FFF"/>
+  <meta name="apple-mobile-web-app-capable" content="yes"/>
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+  <meta name="format-detection" content="telephone=no"/>
+  <meta name="csrf-token" content="IpdvzU59oNuu5TgX1V5jNYTyMmBI9KMeTtmlvHn6">
+  <title>inocar</title>
+<meta property="og:title" content="inocar" />
+<meta property="og:image" content="https://cdn.youcan.shop/stores/0418a3bd3cca31f5060ca12a4a5672fe/others/Pk2wUGub0oTHoktfDHEt5ot2qBl1ik5Bo74p7SLT.png" />
+<meta name="twitter:title" content="inocar" />
+<meta name="twitter:description" content="" />
+<meta name="twitter:images0" content="https://cdn.youcan.shop/stores/0418a3bd3cca31f5060ca12a4a5672fe/others/Pk2wUGub0oTHoktfDHEt5ot2qBl1ik5Bo74p7SLT.png" />
+      <link rel="icon" type="image/png" href="https://cdn.youcan.shop/stores/0418a3bd3cca31f5060ca12a4a5672fe/others/dxDkNCRZHcUPRWvlTC6e6obhyXvO1xfjUrs8ewki.png"/>
+    <style>
+  :root {
+                --primary-color: #282828FF;
+                --light-primary-color: #282828FF;
+                --dark-primary-color: #D0021B;
+                --secondary-color: #DEC435;
+                --body-background-color: #282828FF;
+                --success-color: #00C853;
+                --info-color: #40C4FF;
+                --warning-color: #FFAB00;
+                --danger-color: #F44336;
+        }
+</style>
+  <link href="https://static4.youcan.shop/store-front/css/app.css?id=20d5f3ee618a7ec79456" rel="stylesheet">
+  <!-- Custom CSS Code -->
+  <script type="text/javascript">
+    !function(a,b,c,d,e,f,g,h){a.RaygunObject=e,a[e]=a[e]||function(){
+      (a[e].o=a[e].o||[]).push(arguments)},f=b.createElement(c),g=b.getElementsByTagName(c)[0],
+      f.async=1,f.src=d,g.parentNode.insertBefore(f,g),h=a.onerror,a.onerror=function(b,c,d,f,g){
+      h&&h(b,c,d,f,g),g||(g=new Error(b)),a[e].q=a[e].q||[],a[e].q.push({
+        e:g})}}(window,document,"script","//cdn.raygun.io/raygun4js/raygun.min.js","rg4js");
+  </script>
+  <script type="text/javascript">
+    rg4js('apiKey', 'eDaa4cX1JCIeV2dXDx8auw');
+    rg4js('enablePulse', true); // Enables Real User Monitoring
+  </script>
+  <script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "hy9b1e054k");
+</script>
+  <script>
+  !function (f, b, e, v, n, t, s) {
+    if (f.fbq) return;
+    n = f.fbq = function () {
+        n.callMethod ?
+            n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+    };
+    if (!f._fbq) f._fbq = n;
+    n.push = n;
+    n.loaded = !0;
+    n.version = '2.0';
+    n.queue = [];
+    t = b.createElement(e);
+    t.async = !0;
+    t.src = v;
+    s = b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t, s)
+  }(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '437227401467387');
+    fbq('track', 'PageView');
+</script>
 
+  
+  
+  
+        <style type="text/css">
+    .section-9Y0rnwIGnrUC9gKX {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #ffffff;
+    color: #000000;
+}.section-9Y0rnwIGnrUC9gKX .heading-primary {
+    color: #000000;
+}
+
+.section-9Y0rnwIGnrUC9gKX .heading-description {
+    color: #696969;
+}.section-9Y0rnwIGnrUC9gKX .product-item .product-title a {
+    color: #000000;
+}
+
+.section-9Y0rnwIGnrUC9gKX .product-item .product-price .before {
+    color: #747474;
+}
+
+.section-9Y0rnwIGnrUC9gKX .product-item .product-price .after {
+    color: #F9773DFF;
+}.section-9Y0rnwIGnrUC9gKX .product-item,
+.section-9Y0rnwIGnrUC9gKX .product-item .product-details {
+    border-color: #FFFFFFFF;
+}
+
+.section-9Y0rnwIGnrUC9gKX .product-item:hover,
+.section-9Y0rnwIGnrUC9gKX .product-item:hover .product-details {
+    border-color: #282828FF;
+}.section-9Y0rnwIGnrUC9gKX .product-item .product-actions .button {
+    color: #FFFFFFFF;
+    background-color: #282828FF;
+    border-color: #282828FF;
+}
+
+.section-9Y0rnwIGnrUC9gKX .product-item .product-actions .button:hover {
+    color: #ffffff;
+    background-color: #282828FF;
+    border-color: #282828FF;
+}.section-9Y0rnwIGnrUC9gKX .load-more a,
+.section-9Y0rnwIGnrUC9gKX .products-slider .slick-next,
+.section-9Y0rnwIGnrUC9gKX .products-slider .slick-prev {
+    color: #696969;
+    background-color: #ffffff;
+    border-color: #282828FF;
+}
+
+.section-9Y0rnwIGnrUC9gKX .load-more a:hover,
+.section-9Y0rnwIGnrUC9gKX .products-slider .slick-next:hover,
+.section-9Y0rnwIGnrUC9gKX .products-slider .slick-prev:hover {
+    color: #F9773DFF;
+    background-color: #ffffff;
+    border-color: #F9773DFF;
+}
+  </style>
+</head>
+<body>
+    <div id="app">
+    <cart-side-summary :initial-cart="{&quot;sub_total&quot;:0,&quot;count&quot;:0,&quot;one_page_checkout&quot;:false,&quot;created_at&quot;:&quot;2023-08-11T21:12:54.274063Z&quot;,&quot;items&quot;:{&quot;data&quot;:[]}}"></cart-side-summary>
+    <!-- App header -->
+          <div id="header-wrapper" class="header-wrapper" >
+  <div
+    class="notice-bar desktop-notice-bar"
+    style="color: #ffffff; background-color: #FFFFFFFF;">
+    <div class="container">
+      <div class="fr-view">
+        
+      </div>
+    </div>
+  </div>
+  <div
+    class="notice-bar mobile-notice-bar"
+    style="color: #ffffff; background-color: #FFFFFFFF;">
+    <div class="container">
+      <div class="fr-view">
+        
+      </div>
+    </div>
+  </div>
+  <div class="header-container">
+        <header
+      class="app-header"
+      :class="{'search-active': showSearch, 'navigation-active': showNavigation}"
+      id="app-header">
+      <div class="main-bar desktop-bar" style="background-color: #ffffff;border-bottom: 1px solid #f0f0f0;">
+  <div class="container">
+          <div class="header-center">
+                  <div class="header-element">
+      <ul class="list-unstyled header-list">
+                                </ul>
+    </div>
+                  </div>
+              <div class="header-left">
+                                    <div class="header-element">
+      <a class="header-brand" href="https://carrsino.site">
+      <img src="https://cdn.youcan.shop/stores/0418a3bd3cca31f5060ca12a4a5672fe/others/Pk2wUGub0oTHoktfDHEt5ot2qBl1ik5Bo74p7SLT.png " alt="inocar"/>
+  </a>
+    </div>
+                  </div>
+              <div class="header-right">
+                  <div class="header-element">
+      <a class="header-switcher" href="javascript:void(0)" role="button" @click="toggleSearch()">
+        <i class="yc yc-search" style="color:#000000FF"></i>
+      </a>
+    </div>
+                      <div class="header-element">
+          </div>
+                      <div class="header-element">
+      <cart-dropdown color="#000000FF"></cart-dropdown>
+    </div>
+                </div>
+      </div>
+</div>
+      <div class="main-bar mobile-bar" style="background-color: #FFFFFFFF;border-bottom: 1px solid #f0f0f0;">
+  <div class="container">
+          <div class="header-center">
+                  <div class="header-element">
+      <a class="header-brand" href="https://carrsino.site">
+      <img src="https://cdn.youcan.shop/stores/0418a3bd3cca31f5060ca12a4a5672fe/others/Pk2wUGub0oTHoktfDHEt5ot2qBl1ik5Bo74p7SLT.png " alt="inocar"/>
+  </a>
+    </div>
+                  </div>
+              <div class="header-left">
+                  <div class="header-element">
+      <a class="header-switcher" href="javascript:void(0)" role="button" @click="toggleNavigation()">
+        <i class="yc yc-menu" style="color:#2E3746FF"></i>
+      </a>
+    </div>
+                  </div>
+              <div class="header-right">
+                  <div class="header-element">
+      <a class="header-switcher" href="javascript:void(0)" role="button" @click="toggleSearch()">
+        <i class="yc yc-search" style="color:#2E3746FF"></i>
+      </a>
+    </div>
+                      <div class="header-element">
+          </div>
+                      <div class="header-element">
+      <cart-dropdown color="#2E3746FF"></cart-dropdown>
+    </div>
+                  </div>
+      </div>
+</div>
+      <div v-if="showNavigation" class="overlay" @click="toggleNavigation()"></div>
+<nav class="side-navigation">
+  <a class="navigation-brand" href="https://carrsino.site">
+      <img src="https://cdn.youcan.shop/stores/0418a3bd3cca31f5060ca12a4a5672fe/others/Pk2wUGub0oTHoktfDHEt5ot2qBl1ik5Bo74p7SLT.png " alt="inocar"/>
+  </a>
+  <form class="navigation-search" action="https://carrsino.site/search">
+    <div class="search-input">
+      <input type="search" placeholder="البحث عن منتج" required name="query">
+      <button type="submit">
+        <i class="yc yc-search"></i>
+      </button>
+    </div>
+  </form>
+  <ul class="list-unstyled navigation-list">
+                </ul>
+  </nav>
+      <form class="search-form" method="GET" action="https://carrsino.site/search">
+		<div class="container">
+			<div class="search-select">
+				<select title="collections" name="collection">
+					<option value="" selected>جميع التشكيلات</option>
+											<option value="537dbfea-3dff-4dd8-9956-59eab334a22e" >الأكثر مبيعا</option>
+									</select>
+			</div>
+			<div class="search-input">
+				<input type="hidden" name="limit" value="12">
+				<input type="search" placeholder="البحث عن منتج" required name="q" value="">
+				<button class="search-submit" type="submit">
+					<i class="yc yc-search"></i>
+				</button>
+			</div>
+		</div>
+	</form>
+    </header>
+      </div>
+</div>
+        <!-- Toast messages -->
+<flash></flash>
+    <!-- App content -->
+    <main class="page-wrapper">
+            <div
+  id="section-SMIrzJukfflNbArd"
+  class="slider-container show-first-image horizontal medium">
+            <div class="slide ">
+    <img class="mobile-image middle" src="https://cdn.youcan.shop/stores/0418a3bd3cca31f5060ca12a4a5672fe/others/QWeLf7fZ6HB4gjiCV88FFtUy4HEyil7YeLdTgztd.png" alt="slider-image" />
+    <img class="desktop-image middle" src="https://cdn.youcan.shop/stores/0418a3bd3cca31f5060ca12a4a5672fe/others/Dwqh31ULwmB80yAJJcWKOW7TcMt7PLORkKGWBLDv.png" alt="slider-image" />
+    <span class="slider-caption">
+                    </span>
+    
+</div>
+      </div>
+
+
+      <section class="section products-list-section section-9Y0rnwIGnrUC9gKX">
+    <div class="container">
+        <div class="app-heading">
+            <h3 class="heading-primary">FEATURED COLLECTION</h3>
+            <p class="heading-description">Find everything you want</p>
+        </div>
+        <div class="products-grid">
+                            <div class="product-item" >
+		<a class="product-thumbnail lazy" href="https://carrsino.site/products/phoneholder">
+        <img data-src="https://cdn.youcan.shop/stores/0418a3bd3cca31f5060ca12a4a5672fe/products/9SPQnJemcBm52jHdAdyGdBfw2gvQyb2h8II4kH5R_md.png"
+             alt=""
+             class=""
+        >
+    </a>
+    <div class="product-details">
+        <div class="product-info">
+            <h3 class="product-title">
+                <a href="https://carrsino.site/products/phoneholder">اصغر حامل هاتف مغناطيسي جديد</a>
+            </h3>
+            <div class="product-price">
+                                    <span class="currency-value before">
+                                                    <span class="value">199</span><span class="currency">&nbsp;د.م</span>
+                                            </span>
+                                <span class="currency-value after">
+                                            <span class="value">139</span><span class="currency">&nbsp;د.م</span>
+                                    </span>
+            </div>
+        </div>
+        <div class="product-actions">
+                      <a class="button small-button secondary-button" href="https://carrsino.site/products/phoneholder">
+              شراء الآن
+            </a>
+                  </div>
+    </div>
+</div>
+                            <div class="product-item" >
+		<a class="product-thumbnail lazy" href="https://carrsino.site/products/duplicater">
+        <img data-src="https://cdn.youcan.shop/stores/0418a3bd3cca31f5060ca12a4a5672fe/products/BydFwrdhhThjWWBpte4pN5NeM3frlKCZOtHdzHpZ_md.jpeg"
+             alt=""
+             class=""
+        >
+    </a>
+    <div class="product-details">
+        <div class="product-info">
+            <h3 class="product-title">
+                <a href="https://carrsino.site/products/duplicater">ناسخ اجهزة التحكم الذكي</a>
+            </h3>
+            <div class="product-price">
+                                    <span class="currency-value before">
+                                                    <span class="value">299</span><span class="currency">&nbsp;د.م</span>
+                                            </span>
+                                <span class="currency-value after">
+                                            <span class="value">169</span><span class="currency">&nbsp;د.م</span>
+                                    </span>
+            </div>
+        </div>
+        <div class="product-actions">
+                      <a class="button small-button secondary-button" href="https://carrsino.site/products/duplicater">
+              شراء الآن
+            </a>
+                  </div>
+    </div>
+</div>
+                            <div class="product-item" >
+		<a class="product-thumbnail lazy" href="https://carrsino.site/products/miroirs-retroviseurs-3600-2-pieces">
+        <img data-src="https://cdn.youcan.shop/stores/0418a3bd3cca31f5060ca12a4a5672fe/products/jPD8pNmpmuAXl0jG0mogfHvq1dHeZspe3uMcOy4c_md.png"
+             alt=""
+             class=""
+        >
+    </a>
+    <div class="product-details">
+        <div class="product-info">
+            <h3 class="product-title">
+                <a href="https://carrsino.site/products/miroirs-retroviseurs-3600-2-pieces">Miroirs Rétroviseurs 360° ( 2 Pièces)</a>
+            </h3>
+            <div class="product-price">
+                                    <span class="currency-value before">
+                                                    <span class="value">225</span><span class="currency">&nbsp;د.م</span>
+                                            </span>
+                                <span class="currency-value after">
+                                            <span class="value">195</span><span class="currency">&nbsp;د.م</span>
+                                    </span>
+            </div>
+        </div>
+        <div class="product-actions">
+                      <a class="button small-button secondary-button" href="https://carrsino.site/products/miroirs-retroviseurs-3600-2-pieces">
+              شراء الآن
+            </a>
+                  </div>
+    </div>
+</div>
+                            <div class="product-item" >
+		<a class="product-thumbnail lazy" href="https://carrsino.site/products/rangement-pare-soleil">
+        <img data-src="https://cdn.youcan.shop/stores/0418a3bd3cca31f5060ca12a4a5672fe/products/kX0lba7xGvv4SV9XUdjjX4sKjvylxrrhcHxgxtAf_md.png"
+             alt=""
+             class=""
+        >
+    </a>
+    <div class="product-details">
+        <div class="product-info">
+            <h3 class="product-title">
+                <a href="https://carrsino.site/products/rangement-pare-soleil">RANGEMENT PARE-SOLEIL</a>
+            </h3>
+            <div class="product-price">
+                                    <span class="currency-value before">
+                                                    <span class="value">245</span><span class="currency">&nbsp;د.م</span>
+                                            </span>
+                                <span class="currency-value after">
+                                            <span class="value">199</span><span class="currency">&nbsp;د.م</span>
+                                    </span>
+            </div>
+        </div>
+        <div class="product-actions">
+                      <a class="button small-button secondary-button" href="https://carrsino.site/products/rangement-pare-soleil">
+              شراء الآن
+            </a>
+                  </div>
+    </div>
+</div>
+                    </div>
+                    <div class="load-more">
+                <a class="button default-button" href="https://carrsino.site/collections/default-category">
+                    استعراض المزيد
+                </a>
+            </div>
+            </div>
+</section>
+
+
+      </main>
+    <!-- App footer -->
+          <footer class="footer " style="background-color: #fefefe;color: #2E3746FF;border-top: 1px solid #f0f0f0;">
+  <div class="container">
+          <div class="footer-brand">
+        <a class="" href="https://carrsino.site">
+      <img src="https://cdn.youcan.shop/stores/0418a3bd3cca31f5060ca12a4a5672fe/others/Pk2wUGub0oTHoktfDHEt5ot2qBl1ik5Bo74p7SLT.png " alt="inocar"/>
+  </a>
+      </div>
+      <div class="footer-body">
+        <div class="is-grid grid-3">
+                                    <div class="footer-item">
+                <h3>Contact-us</h3>
+                <ul class="list-unstyled footer-list">
+                                      <li>
+                      <a href="/pages/contact-us" style="color: #2E3746FF;">
+                        Contact us
+                      </a>
+                    </li>
+                                      <li>
+                      <a href="/pages/faq" style="color: #2E3746FF;">
+                        FAQ
+                      </a>
+                    </li>
+                                </ul>
+            </div>
+                          <div class="footer-item">
+                <h3>Terms and conditions</h3>
+                <ul class="list-unstyled footer-list">
+                                      <li>
+                      <a href="/pages/terms-and-conditions" style="color: #2E3746FF;">
+                        Terms &amp; Conditions
+                      </a>
+                    </li>
+                                      <li>
+                      <a href="/pages/return-policy" style="color: #2E3746FF;">
+                        Return Policy
+                      </a>
+                    </li>
+                                      <li>
+                      <a href="/pages/confidentiality" style="color: #2E3746FF;">
+                        Privacy Policy
+                      </a>
+                    </li>
+                                </ul>
+            </div>
+                          <div class="footer-item">
+                <h3>About the store</h3>
+                <ul class="list-unstyled footer-list">
+                                      <li>
+                      <a href="/pages/about-us" style="color: #2E3746FF;">
+                        About us
+                      </a>
+                    </li>
+                                      <li>
+                      <a href="/pages/how-to-pay" style="color: #2E3746FF;">
+                        How To Pay
+                      </a>
+                    </li>
+                                      <li>
+                      <a href="/pages/shipping-delivery" style="color: #2E3746FF;">
+                        Shipping &amp; Delivery
+                      </a>
+                    </li>
+                                </ul>
+            </div>
+                              </div>
+      </div>
+            </div>
+</footer>
+        <!-- Hookables -->
+      </div>
+    <script>
+  // Here we set the whole Dotshop object
+  window.Dotshop = {
+    env: "production",
+    assetsDomain: "https://static4.youcan.shop",
+    store: {"name":"inocar","country_code":null,"online_settings":{"analytics":null,"fb_pixel":{"ids":["437227401467387"],"deliverability_rate":100,"conversion_type":1},"snap_pixel":{"ids":[],"deliverability_rate":100,"conversion_type":1},"tiktok_pixel":{"ids":[],"conversion_type":1,"deliverability_rate":100},"google_analytics":{"ids":[],"deliverability_rate":100,"conversion_type":1},"footer":"<script type=\"text\/javascript\">\r\n    (function(c,l,a,r,i,t,y){\r\n        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};\r\n        t=l.createElement(r);t.async=1;t.src=\"https:\/\/www.clarity.ms\/tag\/\"+i;\r\n        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);\r\n    })(window, document, \"clarity\", \"script\", \"hy9b1e054k\");\r\n<\/script>","header":"<script type=\"text\/javascript\">\r\n    (function(c,l,a,r,i,t,y){\r\n        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};\r\n        t=l.createElement(r);t.async=1;t.src=\"https:\/\/www.clarity.ms\/tag\/\"+i;\r\n        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);\r\n    })(window, document, \"clarity\", \"script\", \"hy9b1e054k\");\r\n<\/script>","notifications":true},"multicurrency_settings":{"isMulticurrencyActive":false,"usePrecision":false},"domain":{"name":"carrsino.site"},"currencyPrecision":false},
+    customer: false,
+    csrfToken: "IpdvzU59oNuu5TgX1V5jNYTyMmBI9KMeTtmlvHn6",
+    locale: "ar_MA",
+    currency: {"code":"IRR","symbol":"\u062f.\u0645"},
+    customerCurrency: {"code":"IRR","symbol":"\u062f.\u0645"},
+    font: {"menu":{"text":"Cairo","value":"Cairo","category":"sans-serif"},"body":{"text":"Cairo","value":"Cairo","category":"sans-serif"}},
+    features: null,
+  }
+</script>
+
+
+<script src="https://static4.youcan.shop/api/languages-inocar.json?timestamp=1691170927"></script>
+  <script src="https://youcanpay.com/js/ycpay.js?v=1691788374"></script>
+  <script src="https://static4.youcan.shop/store-front/js/bootstrap.js?id=8f92192adc6b254befa3"></script>
+  <script src="https://static4.youcan.shop/store-front/js/app.js?id=25b189902377b0b8b24b"></script>
+  <script src="https://static4.youcan.shop/store-front/js/home/app.js?id=80154e3d2c9e202dc158"></script>
+  <script type="module">
+  let sliderId = "section-SMIrzJukfflNbArd",
+      direction = "horizontal",
+      frequency = "5",
+      customHeight = null,
+      slideImages = document.querySelectorAll(isMobileView() ? '.desktop-image' : '.mobile-image');
+
+  window.addEventListener('resize', () => {
+    Array.from(slideImages).forEach(image => {
+      if (isMobileView()) {
+        image.classList.remove('desktop-image');
+        image.classList.add('mobile-image');
+      } else {
+        image.classList.remove('mobile-image');
+        image.classList.add('desktop-image');
+      }
+    });
+  });
+
+  Array.from(slideImages).forEach(image => {
+    if (isMobileView()) {
+      image.classList.add('hidden-desktop');
+    } else {
+      image.classList.add('hidden-mobile');
+    }
+  });
+
+  if(!isMobileView() && customHeight !== null) {
+    document.getElementById(`${sliderId}`).style.height = `${customHeight}px`;
+  }
+
+  if(isMobileView()) {
+    Array.from(document.getElementsByClassName('null-img')).forEach(image => {
+      image.remove();
+    });
+  }
+
+  
+  // Document Ready
+  if (document.readyState !== 'loading') {
+    $(`#${sliderId}`).removeClass('show-first-image');
+  } else {
+    document.addEventListener("DOMContentLoaded", () => {
+      $(`#${sliderId}`).removeClass('show-first-image');
+    });
+  }
+</script>
+<!-- Custom JavaScript code -->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "hy9b1e054k");
+</script>
+
+<!-- Google Analytics code -->
+
+  </body>
+</html>
